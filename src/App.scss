@@ -397,6 +397,8 @@ header h1 {
 }
 
 #skills {
+	background-image: url("pumpkinbanner.png");
+	background-size:cover;
 	background-color: #f5d7ef;
 	min-height: 200px;
 	width: 100%;
@@ -408,20 +410,21 @@ header h1 {
 .section-title {
 	padding-top: 5%;
 	padding-bottom: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 'opensans-bold', sans-serif;
+	font-weight: bolder;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: white;
 	border-radius: 20px;
 	text-align: center;
-	background-color: #b68ac7;
+	background-color: none;
 	margin-bottom: 20px;
 }
 
 .skill-icon {
 	padding-top: 50px;
 	font-size: 180%;
-	color: black;
+	color: white;
 	text-align: center;
 	position: relative;
 }
@@ -435,6 +438,7 @@ footer {
 	color: white;
 	position: relative;
 	text-align: center;
+
 }
 
 footer a,

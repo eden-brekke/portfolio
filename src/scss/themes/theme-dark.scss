@@ -60,13 +60,14 @@ body[data-theme="dark"] {
    .section-title {
       padding-top: 5%;
       padding-bottom: 5%;
-      font: 18px/24px 'opensans-bold', sans-serif;
+      font: 'opensans-bold', sans-serif;
+      font-weight: bolder;
       text-transform: uppercase;
       letter-spacing: 3px;
       color: white;
       border-radius: 20px;
       text-align: center;
-      background-color: #745481;
+      background-color: none;
       margin-bottom: 20px;
    }
 
