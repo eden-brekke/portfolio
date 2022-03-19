@@ -1,61 +1,112 @@
 {
   "basic_info": {
-    "description_header": "Hello :)",
-    "description": "👋 I'm Eden Brekke, I'm a virologist gone software developer. I enjoy the problem solving process that came with being a scientist so much that I sought out new and fun ways to apply that skill and further my career. I enjoy many things in life, but my favorite way to spend my time is with my little family, consisting of my partner and two kitties, and video games. I hope you enjoy my portfolio. 💜",
+    "description_header": "Hello y'all :)",
+    "description": "👋 Hey y'all! I'm Eden and I'm a software developer. Throughout my life I have had a long standing comfort and familiarity with computers, and though I've always had an ember of interest in programming, it is not something I pursued until recently. Instead I have a background in Virology research where I spent most of my career as a research scientist and a lab manager. During my time at the lab, a kind software engineer wrote a small program for us that changed an assay that took hours out of our day and made it take minutes instead, it completely changed our daily approach in lab. This small act really stoked that ember of existing interest into a passion for wanting to learn software development. So I could make programs similar to that. My career goals aren't to make a complete switch from my science background, but instead to make a shift. I want to take my knowledge of software development and bring it back into the world of science, I want to use it to push development of medicine and the betterment of our society. 💜",
     "section_name": {
-      "about": "About me",
-      "projects": "Projects",
-      "skills": "Skills",
-      "experience": "Experience"
+      "about": "About me y'all",
+      "projects": "Projects y'all",
+      "skills": "Skills y'all",
+      "experience": "Experience y'all"
     }
   },
   "projects": [
     {
-      "title": "201 Final Project: Codle",
-      "startDate": "2013",
-      "description": "One of my first long term jobs, was being a delivery driver. I valued the time management and self driven skills I received here. It was important to not only be punctual and careful within this job, it was also important to be self motivated. It's the sort of job where you have every excuse in the world to not make it back from a delivery quickly, and it's all self motivation to be a good worker. It helped me learn what kind of employee I am, and I found that I am dependable and reliable through this experience.",
+      "title": "201 Final Project: Codle y'all",
+      "startDate": "2022",
+      "description": "This is a screenshot of the homescreen, and a close up, of my Team from Code 201's final project. Our objective was to re-create new york times word game 'Wordle' as 'Codle'. We were limited by the scope of the class in that we couldn't call an API to draw 5 letter coding terminology, so instead our team hard-coded coding terms and descriptions into a constructor an drew from that pool of 45 terms. My main contribution to the project was getting the on-screen keyboard to function, the letters to render on screen in real time, the css and the animations for when you guessed incorrect letters, and for when you've guessed the correct word!",
       "images": [
         "images/portfolio/codle/codlehomepage.png",
-        "images/portfolio/codle/"
+        "images/portfolio/codle/codlecloseup.png"
       ],
       "url": "",
-      "technologies": []
+      "technologies": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        }
+      ]
     },
     {
-      "title": "201 Project: Cookie Stand",
-      "startDate": "2013",
-      "description": "One of my first long term jobs, was being a delivery driver. I valued the time management and self driven skills I received here. It was important to not only be punctual and careful within this job, it was also important to be self motivated. It's the sort of job where you have every excuse in the world to not make it back from a delivery quickly, and it's all self motivation to be a good worker. It helped me learn what kind of employee I am, and I found that I am dependable and reliable through this experience.",
+      "title": "201 Project: Cookie Stand y'all",
+      "startDate": "2022",
+      "description": "The dreaded Code Fellows Cookies Week! This was our first introduction to objects, constructors and DOM manipulation using vanilla Javascript. Looking back it seems pretty simple but it was definitely a test of will and determination, anyone who can make it through cookies week can make it through anything you throw at them! Just look at those snack-tistics! If you visit the site you can even add your own store with it's own data to the table! :)",
       "images": [
         "images/portfolio/cookies/cookiestand.png",
-        "images/portfolio/cookies/"
+        "images/portfolio/cookies/homepagesnippit.png"
       ],
       "url": "",
-      "technologies": []
+      "technologies": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        }
+      ]
     },
     {
-      "title": "201 Project: Busmall",
-      "startDate": "2013",
-      "description": "One of my first long term jobs, was being a delivery driver. I valued the time management and self driven skills I received here. It was important to not only be punctual and careful within this job, it was also important to be self motivated. It's the sort of job where you have every excuse in the world to not make it back from a delivery quickly, and it's all self motivation to be a good worker. It helped me learn what kind of employee I am, and I found that I am dependable and reliable through this experience.",
+      "title": "201 Project: Busmall y'all",
+      "startDate": "2022",
+      "description": "Bus mall! Bus mall! All aboard the bus to the mall! This was my first introduction to locally stored data and to chart.js! Who knew websites could store data on your local machine?! I didn't! This bootcamp has just been a wealthy of knowledge!",
       "images": [
-        "images/portfolio/bus/busmall.png",
-        "images/portfolio/bus/"
+        "images/portfolio/bus/busmall.png"
       ],
       "url": "",
-      "technologies": []
+      "technologies": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        }
+      ]
     },
     {
-      "title": "201 Project: About Me",
-      "startDate": "2013",
-      "description": "One of my first long term jobs, was being a delivery driver. I valued the time management and self driven skills I received here. It was important to not only be punctual and careful within this job, it was also important to be self motivated. It's the sort of job where you have every excuse in the world to not make it back from a delivery quickly, and it's all self motivation to be a good worker. It helped me learn what kind of employee I am, and I found that I am dependable and reliable through this experience.",
+      "title": "201 Project: About Me y'all",
+      "startDate": "2022",
+      "description": "Our very first project in Code 201, our introduction to HTML, CSS, JavaScript and introducing who we are as people. If you visit this site you can play a fun little prompt based guessing game about me! While this isn't the most sophisticated of sites, everyone has a starting point and this is mine! :)",
       "images": [
         "images/portfolio/about/catfamily.png",
-        "images/portfolio/about/"
+        "images/portfolio/about/mytopgames.png"
       ],
       "url": "",
-      "technologies": []
+      "technologies": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        }
+      ]
     },
     {
-      "title": "Hyde Lab Manager",
+      "title": "Hyde Lab Manager y'all",
       "startDate": "2019",
       "description": "I was a Lab Manager for a small Virology lab that focused on research positive sense single stranded RNA viruses, with a primary focus on Venezuelan Equine Encephalitis Virus. My role here focused on fundamental academic research in the path to understand viral pathogenesis and aiding in the development of vaccines and other curative medicines.",
       "images": [
@@ -66,7 +117,7 @@
       "technologies": []
     },
     {
-      "title": "PetSmart Groomer",
+      "title": "PetSmart Groomer y'all",
       "startDate": "2015",
       "description": "During my time as a dog groomer, I made many furry friends, along with their pet parents. I further established my love for all living creatures and the desire to make their life happier and healthier. In a large way I think that's always been a main motivator in my life. Whenever I'm asked what I want out of life, my default answer is to make the world a happier place, even if that's one doggy spa day at a time :)",
       "images": [
