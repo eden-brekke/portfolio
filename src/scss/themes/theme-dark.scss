@@ -7,11 +7,11 @@ body[data-theme="dark"] {
    }
 
    .title-styles {
-      color: white;
+      color: black;
    }
 
    .header-icon {
-      color: #3C342C;
+      color: #070605;
       opacity: 0.8;
    }
 
@@ -33,14 +33,19 @@ body[data-theme="dark"] {
    }
 
    header {
-      background-color: #494949;
+      background:linear-gradient(#b37da8, #494949);
       h1 {
          color: white;
       }
    }
+   .title-container {
+      height: 50px;
+      font-size: large;
+      color: white;
+   }
 
    #about {
-      background-color: #7f7f7f;
+      background-color: #494848;
       h1 span {
          color: white;
       }
@@ -52,9 +57,21 @@ body[data-theme="dark"] {
          color: white;
       }
    }
+   .section-title {
+      padding-top: 5%;
+      padding-bottom: 5%;
+      font: 18px/24px 'opensans-bold', sans-serif;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      color: white;
+      border-radius: 20px;
+      text-align: center;
+      background-color: #745481;
+      margin-bottom: 20px;
+   }
 
    #portfolio {
-      background: #5b5b5b;
+      background: linear-gradient(#5b5b5b,#b37da8);
       .section-title {
          color: white !important;
       }
@@ -68,18 +85,22 @@ body[data-theme="dark"] {
 
    #resume {
       filter: brightness(80%);
-      background: #5b5b5b;
+      background: linear-gradient(#5b5b5b,#b37da8);;
       .section-title {
          color: white !important;
       }
 
+      
       .experience-badge {
          background: #919191 !important;
          color: white;
       }
-
+      
       .main-badge {
          background: #919191 !important;
+         color: white;
+         border-color: #f6a9e7;
+         border: 2px solid;
       }
 
       .vertical-timeline-element-date {
@@ -95,13 +116,20 @@ body[data-theme="dark"] {
          }
       }
    }
-
+   
    .modal-inside .modal-content {
       background: #5b5b5b;
       color: white;
    }
 
    .close-icon {
+      color: white;
+   }
+   #skills {
+      background-color: #494848;
+   }
+   .skill-icon {
+      padding-top: 50px;
       color: white;
    }
 }

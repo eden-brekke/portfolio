@@ -17,6 +17,7 @@ html {
 
 .title-container {
 	height: 50px;
+	font-size: large;
 }
 
 .title-styles {
@@ -38,7 +39,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background: linear-gradient(#c0f0ed, #f5d7ef);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -86,7 +87,7 @@ header .nav {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: #c0f0ed;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -102,11 +103,11 @@ header h1 {
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #f5d7ef;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #f5d7ef;
 	height: 25px;
 }
 
@@ -120,7 +121,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #f5d7ef;
 	overflow: hidden;
 }
 
@@ -231,7 +232,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: linear-gradient(#f5d7ef, #c0f0ed);
 }
 
 .experience-icon {
@@ -245,8 +246,8 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #AE944F !important;
-	color: white;
+	background-color: #f6a9e7 !important;
+	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -256,12 +257,19 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
+	background-color: #f5d7ef !important;
 	color: black;
+	border-color: #f5d7ef;
+	border-radius: 20px;
+	border-width: 3px;
+	border-style: solid;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.vertical-timeline-element-icon {
+	background: #f5d7ef !important;
+}
 .vertical-timeline-element-date {
 	padding: 0 !important;
 	margin: 0 !important;
@@ -276,7 +284,7 @@ header h1 {
 }
 
 .modal-inside .modal-content {
-	background: white;
+	background: #c0f0ed;
 }
 
 .bars {
@@ -353,7 +361,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: linear-gradient(#f5d7ef, #c0f0ed);
 	padding-bottom: 5%;
 }
 
@@ -389,11 +397,12 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background-color: #f5d7ef;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
 	padding-bottom: 10%;
+	color: black;
 }
 
 .section-title {
@@ -402,13 +411,17 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #fff;
+	color: white;
+	border-radius: 20px;
 	text-align: center;
+	background-color: #b68ac7;
+	margin-bottom: 20px;
 }
 
 .skill-icon {
+	padding-top: 50px;
 	font-size: 180%;
-	color: white;
+	color: black;
 	text-align: center;
 	position: relative;
 }
