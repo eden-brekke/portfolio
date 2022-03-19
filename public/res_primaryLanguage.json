@@ -37,7 +37,7 @@
     {
       "title": "201 Project: Cookie Stand",
       "startDate": "2022",
-      "description": "",
+      "description": "The dreaded Code Fellows Cookies Week! This was our first introduction to objects, constructors and DOM manipulation using vanilla Javascript. Looking back it seems pretty simple but it was definitely a test of will and determination, anyone who can make it through cookies week can make it through anything you throw at them! Just look at those snack-tistics! If you visit the site you can even add your own store with it's own data to the table! :)",
       "images": [
         "images/portfolio/cookies/cookiestand.png",
         "images/portfolio/cookies/homepagesnippit.png"
@@ -61,7 +61,7 @@
     {
       "title": "201 Project: Busmall",
       "startDate": "2022",
-      "description": "",
+      "description": "Bus mall! Bus mall! All aboard the bus to the mall! This was my first introduction to locally stored data and to chart.js! Who knew websites could store data on your local machine?! I didn't! This bootcamp has just been a wealthy of knowledge!",
       "images": [
         "images/portfolio/bus/busmall.png"
       ],
@@ -84,7 +84,7 @@
     {
       "title": "201 Project: About Me",
       "startDate": "2022",
-      "description": "",
+      "description": "Our very first project in Code 201, our introduction to HTML, CSS, JavaScript and introducing who we are as people. If you visit this site you can play a fun little prompt based guessing game about me! While this isn't the most sophisticated of sites, everyone has a starting point and this is mine! :)",
       "images": [
         "images/portfolio/about/catfamily.png",
         "images/portfolio/about/mytopgames.png"
