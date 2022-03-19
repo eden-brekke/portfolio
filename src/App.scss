@@ -17,6 +17,7 @@ html {
 
 .title-container {
 	height: 50px;
+	font-size: large;
 }
 
 .title-styles {
@@ -120,7 +121,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #f5d7ef;
 	overflow: hidden;
 }
 
@@ -231,7 +232,7 @@ header h1 {
 }
 
 #resume {
-	background: #c0f0ed;
+	background: linear-gradient(#f5d7ef, #c0f0ed);
 }
 
 .experience-icon {
@@ -246,7 +247,7 @@ header h1 {
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
 	background-color: #f6a9e7 !important;
-	color: white;
+	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -256,12 +257,19 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
+	background-color: #f5d7ef !important;
 	color: black;
+	border-color: #f5d7ef;
+	border-radius: 20px;
+	border-width: 3px;
+	border-style: solid;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.vertical-timeline-element-icon {
+	background: #f5d7ef !important;
+}
 .vertical-timeline-element-date {
 	padding: 0 !important;
 	margin: 0 !important;
@@ -276,7 +284,7 @@ header h1 {
 }
 
 .modal-inside .modal-content {
-	background: white;
+	background: #c0f0ed;
 }
 
 .bars {
@@ -355,7 +363,6 @@ header h1 {
 #portfolio {
 	background: linear-gradient(#f5d7ef, #c0f0ed);
 	padding-bottom: 5%;
-	border-top: 1px solid #f6a9e7;
 }
 
 .portfolio-item {
@@ -390,11 +397,12 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background-color: #f5d7ef;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
 	padding-bottom: 10%;
+	color: black;
 }
 
 .section-title {
@@ -403,13 +411,17 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #fff;
+	color: white;
+	border-radius: 20px;
 	text-align: center;
+	background-color: #b68ac7;
+	margin-bottom: 20px;
 }
 
 .skill-icon {
+	padding-top: 50px;
 	font-size: 180%;
-	color: white;
+	color: black;
 	text-align: center;
 	position: relative;
 }

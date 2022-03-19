@@ -12,46 +12,98 @@
   "projects": [
     {
       "title": "201 Final Project: Codle",
-      "startDate": "2013",
-      "description": "One of my first long term jobs, was being a delivery driver. I valued the time management and self driven skills I received here. It was important to not only be punctual and careful within this job, it was also important to be self motivated. It's the sort of job where you have every excuse in the world to not make it back from a delivery quickly, and it's all self motivation to be a good worker. It helped me learn what kind of employee I am, and I found that I am dependable and reliable through this experience.",
+      "startDate": "2022",
+      "description": "",
       "images": [
         "images/portfolio/codle/codlehomepage.png",
         "images/portfolio/codle/codlecloseup.png"
       ],
       "url": "",
-      "technologies": []
+      "technologies": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        }
+      ]
     },
     {
       "title": "201 Project: Cookie Stand",
-      "startDate": "2013",
-      "description": "One of my first long term jobs, was being a delivery driver. I valued the time management and self driven skills I received here. It was important to not only be punctual and careful within this job, it was also important to be self motivated. It's the sort of job where you have every excuse in the world to not make it back from a delivery quickly, and it's all self motivation to be a good worker. It helped me learn what kind of employee I am, and I found that I am dependable and reliable through this experience.",
+      "startDate": "2022",
+      "description": "",
       "images": [
         "images/portfolio/cookies/cookiestand.png",
         "images/portfolio/cookies/homepagesnippit.png"
       ],
       "url": "",
-      "technologies": []
+      "technologies": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        }
+      ]
     },
     {
       "title": "201 Project: Busmall",
-      "startDate": "2013",
-      "description": "One of my first long term jobs, was being a delivery driver. I valued the time management and self driven skills I received here. It was important to not only be punctual and careful within this job, it was also important to be self motivated. It's the sort of job where you have every excuse in the world to not make it back from a delivery quickly, and it's all self motivation to be a good worker. It helped me learn what kind of employee I am, and I found that I am dependable and reliable through this experience.",
+      "startDate": "2022",
+      "description": "",
       "images": [
         "images/portfolio/bus/busmall.png"
       ],
       "url": "",
-      "technologies": []
+      "technologies": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        }
+      ]
     },
     {
       "title": "201 Project: About Me",
-      "startDate": "2013",
-      "description": "One of my first long term jobs, was being a delivery driver. I valued the time management and self driven skills I received here. It was important to not only be punctual and careful within this job, it was also important to be self motivated. It's the sort of job where you have every excuse in the world to not make it back from a delivery quickly, and it's all self motivation to be a good worker. It helped me learn what kind of employee I am, and I found that I am dependable and reliable through this experience.",
+      "startDate": "2022",
+      "description": "",
       "images": [
         "images/portfolio/about/catfamily.png",
         "images/portfolio/about/mytopgames.png"
       ],
       "url": "",
-      "technologies": []
+      "technologies": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        }
+      ]
     },
     {
       "title": "Hyde Lab Manager",
