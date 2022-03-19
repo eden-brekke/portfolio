@@ -13,7 +13,7 @@
     {
       "title": "201 Final Project: Codle",
       "startDate": "2022",
-      "description": "",
+      "description": "This is a screenshot of the homescreen, and a close up, of my Team from Code 201's final project. Our objective was to re-create new york times word game 'Wordle' as 'Codle'. We were limited by the scope of the class in that we couldn't call an API to draw 5 letter coding terminology, so instead our team hard-coded coding terms and descriptions into a constructor an drew from that pool of 45 terms. My main contribution to the project was getting the on-screen keyboard to function, the letters to render on screen in real time, the css and the animations for when you guessed incorrect letters, and for when you've guessed the correct word!",
       "images": [
         "images/portfolio/codle/codlehomepage.png",
         "images/portfolio/codle/codlecloseup.png"

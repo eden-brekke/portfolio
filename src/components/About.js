@@ -1,6 +1,10 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
+import cssIcon from "@iconify/icons-logos/css-3";
+import bootstrapIcon from "@iconify/icons-logos/bootstrap";
 import reactIcon from "@iconify/icons-logos/react";
+import javaIcon from "@iconify/icons-logos/javascript";
+import htmlIcon from "@iconify/icons-logos/html-5";
 
 
 class About extends Component {
@@ -25,12 +29,29 @@ class About extends Component {
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
                   <img
-                    height="250px"
+                    height="400px"
+                    width="250px"
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
                   <Icon
+                    icon={bootstrapIcon}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
                     icon={reactIcon}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                    icon={javaIcon}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                    icon={cssIcon}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                    icon={htmlIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
