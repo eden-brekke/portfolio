@@ -11,6 +11,34 @@
   },
   "projects": [
     {
+      "title": "Gallery of Horns",
+      "startDate": "2022",
+      "description": "This is the Gallery of horns! This is my first experience working with React JavaScript and Bootstrap. We also learned how to create a modal and how to create forms in React.",
+      "images": [
+        "images/portfolio/horns/100horns.png",
+        "images/portfolio/horns/hornedmodal.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain"
+        } 
+      ]
+    },
+    {
       "title": "201 Final Project: Codle",
       "startDate": "2022",
       "description": "This is a screenshot of the homescreen, and a close up, of my Team from Code 201's final project. Our objective was to re-create new york times word game 'Wordle' as 'Codle'. We were limited by the scope of the class in that we couldn't call an API to draw 5 letter coding terminology, so instead our team hard-coded coding terms and descriptions into a constructor an drew from that pool of 45 terms. My main contribution to the project was getting the on-screen keyboard to function, the letters to render on screen in real time, the css and the animations for when you guessed incorrect letters, and for when you've guessed the correct word!",
@@ -115,18 +143,8 @@
       ],
       "url": "",
       "technologies": []
-    },
-    {
-      "title": "PetSmart Groomer",
-      "startDate": "2015",
-      "description": "During my time as a dog groomer, I made many furry friends, along with their pet parents. I further established my love for all living creatures and the desire to make their life happier and healthier. In a large way I think that's always been a main motivator in my life. Whenever I'm asked what I want out of life, my default answer is to make the world a happier place, even if that's one doggy spa day at a time :)",
-      "images": [
-        "images/portfolio/pet-smart/pexels-nishizuka-485294.jpg",
-        "images/portfolio/pet-smart/pexels-benjamin-lehman-1436139.jpg"
-      ],
-      "url": "",
-      "technologies": []
     }
+
   ],
   "experience": [
     {
